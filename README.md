@@ -1,6 +1,4 @@
 # Pokemon
-This web application is an interactive Pokémon information viewer built using HTML, CSS, and JavaScript. It fetches real-time Pokémon data from the PokéAPI and displays it in a clean, card-based layout.
-Pokémon Search Web App
 
 A simple and interactive Pokémon search web application built using **HTML, CSS, and JavaScript**.  
 This app allows users to search for Pokémon and view their details using the **Pokémon API**.
