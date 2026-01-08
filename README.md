@@ -75,33 +75,3 @@ GLA University, Mathura
 
 GitHub: https://github.com/Harit2552
 
-⭐ Support
-If you like this project, don’t forget to ⭐ star the repository!
-
-yaml
-Copy code
-
----
-
-## ✅ What this README does well
-✔ Professional  
-✔ Easy to understand  
-✔ Perfect for GitHub & resumes  
-✔ Clean structure  
-✔ Matches your project exactly  
-
----
-
-If you want, I can:
-- Add **screenshots section**
-- Make it **resume-optimized**
-- Write a **README for React version**
-- Improve it for **internship submissions**
-
-Just tell me 👍
-
-
-
-
-
-
