@@ -15,6 +15,10 @@ This app allows users to search for Pokémon and view their details using the **
 
 ---
 
+## Live URL for Demo
+
+https://harit2552.github.io/Pokemon/ 
+
 ## 🛠️ Tech Stack
 
 - **HTML** – Structure of the web page  
@@ -31,9 +35,6 @@ Pokemon/
 ├── api.js # API handling logic
 ├── search.js # Search functionality
 └── README.md # Project documentation
-
-yaml
-Copy code
 
 ---
 
