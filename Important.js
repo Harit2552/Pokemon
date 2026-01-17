@@ -1,6 +1,6 @@
 //Some important JavaScript code
+alert("This is an important JavaScript file.");
 
-console.log("This is an important JavaScript file.");
 function importantFunction() {
     console.log("Executing important function.");
 }
